@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    background-color: green;
+    color: white;
+    padding-bottom: 3%;
+}
+.inline {
+    display: inline-block;
+   
+}
+.inline img{
+    width: 40px;
+    margin-left: 100px ;
+    margin-top: 20px;
+}
+ ul{
+    display: inline-block;
+    margin-left: 60% ;
+    margin-bottom: 3%;
+} 
+ ul li{
+    display: inline-block;
+     list-style: none; 
+     padding: 5px;
+} 
+li a{
+    text-decoration: none;
+    color: white;
+
+}
+.section p{
+    width: fit-content;
+    background-color: white !important;
+    color: black;
+    margin-bottom: 35px;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 130px ;
+}
+iframe{
+    margin-left: 20vw;
+    margin-top: 2%;
+}
+.card{
+    margin-left: 130px ;
+}
+input{
+    background-color: white !important;
+    color: green; 
+    border-radius: 25px;
+    padding: 10px;
+    outline: none;
+    border: 1px solid white;
+    margin-right: 3%;
+    margin-top: 2%;
+}
+label{
+    margin-left: 3%;
+
+}
+button{
+    background-color: rgb(3, 55, 3);
+    outline: none;
+    border: 1px solid rgb(11, 219, 105);
+    padding: 10px 35px;
+    border-radius: 25px;
+    color: white;
+}
+.card2{
+    margin-top: 4%;
+    margin-left: 15%;
+}
+.card2 p{
+    opacity: .6;
+}
+.head{
+    width: 25%;
+    margin-right: 5%;
+}
+
+.head2{
+    width: 25%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.head3{
+    width: 25%;
+    margin-right: 5%;
+}
